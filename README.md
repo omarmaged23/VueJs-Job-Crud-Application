@@ -1,6 +1,5 @@
-# Vue Jobs Project (Copyrights to BradTraversy YouTube Channel For This Amazing Course)
-
-This is the jobs listing project from the [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).
+# Vue Jobs Project  
+*Copyrights to Brad Traversy YouTube Channel for this amazing [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).*
 
 <img src="public/screen.png" />
 
